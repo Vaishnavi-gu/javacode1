@@ -1,4 +1,4 @@
-```java
+
 
 import java.util.Scanner;
 
@@ -77,4 +77,3 @@ class gradesystem {
         sc.close();
     }
 }
-```
