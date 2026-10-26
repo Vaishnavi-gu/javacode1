@@ -28,5 +28,6 @@ public class count_digits {
         int num = sc.nextInt();
 
         System.out.println(countDigits(num));
+         sc.close();
     }
 }
