@@ -20,5 +20,8 @@ public class code4 {
             revword += word.charAt(i);
         }
         System.out.println("new string is: " + revword);
+        
+        
     }
+
 }
