@@ -34,5 +34,6 @@ public class fizz_buzz {
         List<String> result = fizzBuzz(n);
 
         System.out.println(result);
+         sc.close();
     }
 }
