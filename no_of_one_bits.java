@@ -23,5 +23,7 @@ public class no_of_one_bits {
         int n = sc.nextInt();
 
         System.out.println(hammingWeight(n));
+        sc.close();
     }
+    
 }
