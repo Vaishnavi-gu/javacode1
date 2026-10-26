@@ -1,4 +1,3 @@
-import java.util.*;
 public class leet_1342 {
     public static int numberOfSteps(int num) {
         int steps = 0;
