@@ -1,4 +1,3 @@
-import java.util.*;
 public class leet_2427{
     public static int commonFactors(int a, int b) {
         int count = 0;
