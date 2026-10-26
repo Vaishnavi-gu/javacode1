@@ -25,5 +25,7 @@ public class is_palindrome {
         int x = sc.nextInt();
 
         System.out.println(isPalindrome(x));
+         sc.close();
     }
+    
 }
