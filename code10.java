@@ -8,5 +8,6 @@ class code10 {
         Scanner vaish = new Scanner(System.in);
         num = vaish.nextInt();
         System.out.println(num);
+        
     }
 }
